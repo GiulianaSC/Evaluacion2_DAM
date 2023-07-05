@@ -1,0 +1,7 @@
+com.giuliana.ec2_dam.test.app-core-1.5.0-0 C:\Users\USER\.gradle\caches\transforms-3\b115597ce3dbff49e1dc5289fce392a3\transformed\core-1.5.0\res
+com.giuliana.ec2_dam.test.app-annotation-experimental-1.3.0-1 C:\Users\USER\.gradle\caches\transforms-3\f04190fac85d926c2fa598832a3ec059\transformed\annotation-experimental-1.3.0\res
+com.giuliana.ec2_dam.test.app-androidTest-2 D:\EC2_DAM\app\build\generated\res\resValues\androidTest\debug
+com.giuliana.ec2_dam.test.app-androidTest-3 D:\EC2_DAM\app\build\generated\res\rs\androidTest\debug
+com.giuliana.ec2_dam.test.app-mergeDebugAndroidTestResources-4 D:\EC2_DAM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.giuliana.ec2_dam.test.app-mergeDebugAndroidTestResources-5 D:\EC2_DAM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.giuliana.ec2_dam.test.app-merged_res-6 D:\EC2_DAM\app\build\intermediates\merged_res\debugAndroidTest
